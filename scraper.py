@@ -12,8 +12,8 @@ import pandas as pd
 import time
 
 # Google API details (replace with your actual credentials)
-API_KEY = "AIzaSyBqkOePE7a68ZwRW4E2k8VCYxgjLnyCZzE"
-CSE_ID = "86ba9112c8a3e45d3"
+API_KEY = ""
+CSE_ID = ""
 GOOGLE_SEARCH_URL = "https://www.googleapis.com/customsearch/v1"
 
 # Target roles
